@@ -147,16 +147,6 @@ Authorization: Bearer {JWT_TOKEN}
 
 ---
 
-## Contribución 🤝
-
-1. Haz fork del proyecto
-2. Crea tu rama: `git checkout -b mi-nueva-funcion`
-3. Commit cambios: `git commit -m 'Add nueva funcion'`
-4. Push: `git push origin mi-nueva-funcion`
-5. Abre un Pull Request
-
----
-
 ### Créditos
 - Desarrollado por [Fernando Gil](https://github.com/tu-usuario).
 - Basado en el [reto Expense Tracker API de roadmap.sh](https://roadmap.sh/projects/expense-tracker-api).
