@@ -24,7 +24,7 @@ API para gestión de gastos personales con autenticación JWT y roles de usuario
 1. Clonar repositorio:
 ```bash
 git clone https://github.com/fer-gc05/ExpenseTrackerAPI.git
-cd expense-tracker
+cd ExpenseTrackerAPI
 ```
 
 2. Instalar dependencias:
@@ -159,6 +159,6 @@ Authorization: Bearer {JWT_TOKEN}
 
 ### Créditos
 - Desarrollado por [Fernando Gil](https://github.com/tu-usuario).
-- Basado en el [reto Todo List API de roadmap.sh](https://roadmap.sh/projects/expense-tracker-api).
+- Basado en el [reto Expense Tracker API de roadmap.sh](https://roadmap.sh/projects/expense-tracker-api).
 
 **¡Listo para registrar tus gastos!** 💰
